@@ -8,6 +8,7 @@ body {
     background-image: url(/Assets/images/Background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    opacity: 95%;
 }
 
 .nav {
@@ -32,6 +33,7 @@ body {
 .logo img {
     height: 100px;
     width: 100px;
+
 }
 
 .body {
@@ -55,4 +57,5 @@ body {
 
 .paragraph {
     width: 600px;
+    height: 80vh;
 }
